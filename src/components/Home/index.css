@@ -1,0 +1,33 @@
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.courses-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: 600;
+}
+
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.courses-loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
